@@ -1,4 +1,4 @@
-package com.bawp.trivia.util;
+package com.akeemadeoti.trivia.util;
 
 import android.app.Activity;
 import android.content.Context;

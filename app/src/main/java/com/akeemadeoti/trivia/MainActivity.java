@@ -1,11 +1,10 @@
-package com.bawp.trivia;
+package com.akeemadeoti.trivia;
 
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.CardView;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
@@ -15,11 +14,11 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.bawp.trivia.data.AnswerListAsyncResponse;
-import com.bawp.trivia.data.QuestionBank;
-import com.bawp.trivia.model.Question;
-import com.bawp.trivia.model.Score;
-import com.bawp.trivia.util.Prefs;
+import com.akeemadeoti.trivia.data.AnswerListAsyncResponse;
+import com.akeemadeoti.trivia.data.QuestionBank;
+import com.akeemadeoti.trivia.model.Question;
+import com.akeemadeoti.trivia.model.Score;
+import com.akeemadeoti.trivia.util.Prefs;
 
 import java.text.MessageFormat;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package com.bawp.trivia.data;
+package com.akeemadeoti.trivia.data;
 
-import com.bawp.trivia.model.Question;
+import com.akeemadeoti.trivia.model.Question;
 
 import java.util.ArrayList;
 

@@ -1,13 +1,11 @@
-package com.bawp.trivia.data;
-
-import android.util.Log;
+package com.akeemadeoti.trivia.data;
 
 import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.bawp.trivia.controller.AppController;
-import com.bawp.trivia.model.Question;
+import com.akeemadeoti.trivia.controller.AppController;
+import com.akeemadeoti.trivia.model.Question;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.bawp.trivia.model;
+package com.akeemadeoti.trivia.model;
 
 public class Question {
     private String answer;

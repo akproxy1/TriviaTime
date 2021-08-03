@@ -1,4 +1,4 @@
-package com.bawp.trivia;
+package com.akeemadeoti.trivia;
 
 import org.junit.Test;
 
